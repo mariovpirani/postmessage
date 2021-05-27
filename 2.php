@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>teste</title>
 </head>
-<body style="background-color: #000;">
+<body style="background-color: #f3f3f3;">
 <?php print_r($_POST);?>
 
 <script type="text/javascript">
